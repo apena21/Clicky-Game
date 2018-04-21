@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "autumm",
+    "image": "../public/autumn.jpg"
+   
+  },
+  {
+    "id": 2,
+    "name": "beach",
+    "image": "../public/beach.jpg"
+  },
+  {
+    "id": 3,
+    "name": "bench and tree",
+    "image": "../public/benchAndTree.jpg"
+  },
+  {
+    "id": 4,
+    "name": "bird",
+    "image": "../public/benchAndTree.jpg"
+  },
+  {
+    "id": 5,
+    "name": "lighthouse",
+    "image": "../public/lighthouse.jpg"
+  },
+  {
+    "id": 6,
+    "name": "moon",
+    "image": "../public/moon.jpg"
+  },
+  {
+    "id": 7,
+    "name": "moon2",
+    "image": "../public/moon2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "mountains",
+    "image": "../public/mountains.jpg"
+  },
+  {
+    "id": 9,
+    "name": "mountainSunset",
+    "image": "../public/mountainSunset.jpg"
+  },
+  {
+    "id": 10,
+    "name": "rockPile",
+    "image": "../public/rockPile.jpg"
+  },
+  {
+    "id": 11,
+    "name": "sailboat",
+    "image": "../public/sailboat.jpg"
+  },
+  {
+    "id": 12,
+    "name": "sunset",
+    "image": "../public/sunset.jpg"
+  }
+]
